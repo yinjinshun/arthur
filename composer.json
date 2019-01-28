@@ -1,9 +1,17 @@
 {
     "name": "lingchuang/test",
     "description": "this is a test package",
+	"type": "library",
+    "license": "MIT",
     "require": {
 		"php":">= 5.6.0"
-	},
+	}, 
+	"authors": [
+        {
+            "name": "eddy.yin",
+            "email": "eddy1985525@gmail.com"
+        }
+    ],
 	"autoload":{
 		"psr-4":{
 			"PHP_Test\\":"src/"

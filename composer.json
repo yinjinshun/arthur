@@ -6,11 +6,13 @@
 	"version": "1.0.0",
     "require": {
 		"php":">= 5.6.0"
-	}, 
-	"minimum-stability": "master",
-	"require-dev": {
-        "phpunit/phpunit": "^5.7"
-    },
+	},  
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:yinjinshun/Arthur.git"
+        }
+    ],
 	"authors": [
         {
             "name": "eddy.yin",

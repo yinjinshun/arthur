@@ -1,5 +1,5 @@
 {
-    "name": "lingchuang/arthur",
+    "name": "yinjinshun/arthur",
     "description": "this is a test package",
 	"type": "library",
     "license": "MIT",
@@ -10,7 +10,7 @@
 	"repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:yinjinshun/Arthur.git"
+            "url": "git@github.com:yinjinshun/arthur.git"
         }
     ],
 	"authors": [
@@ -21,7 +21,7 @@
     ],
 	"autoload":{
 		"psr-4":{
-			"lingchuang\\arthur":"src/"
+			"yinjinshun\\arthur":"src/"
 		}
 	}
 }

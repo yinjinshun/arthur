@@ -1,8 +1,9 @@
 {
-    "name": "lingchuang/eddy",
+    "name": "lingchuang/arthur",
     "description": "this is a test package",
 	"type": "library",
     "license": "MIT",
+	"version":1.0.0,
     "require": {
 		"php":">= 5.6.0"
 	}, 
@@ -18,7 +19,7 @@
     ],
 	"autoload":{
 		"psr-4":{
-			"PHP_Test\\":"src/"
+			"lingchuang\\arthur":"src/"
 		}
 	}
 }

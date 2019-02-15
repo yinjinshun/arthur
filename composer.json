@@ -1,0 +1,21 @@
+{
+    "name": "yinjinshun/arthur",
+    "description": "这是测试composer包的",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {
+		"php": ">=5.4"
+	},
+	"license": "MIT",
+    "authors": [
+        {
+            "name": "eddy",
+            "email": "eddy1985525@gmail.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"Arthur\\": "src/"
+    }
+}
+}

@@ -1,5 +1,5 @@
 {
-    "name": "yinjinshun/arthur",
+    "name": "arthur/Hello",
     "description": "this is a test package",
 	"type": "library",
     "license": "MIT",
@@ -16,7 +16,7 @@
 	"minimum-stability": "stable",
 	"autoload":{
 		"psr-4":{
-			"yinjinshun\\arthur":"src/"
+			"arthur\\":"src/"
 		}
 	}
 }

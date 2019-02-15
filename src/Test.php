@@ -1,5 +1,5 @@
 <?php
-namespace Eddy\Hello;
+namespace arthur\Hello;
 
 class Test{
 	public funciton say(){

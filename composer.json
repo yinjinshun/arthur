@@ -13,9 +13,11 @@
             "email": "eddy1985525@gmail.com"
         }
     ],
+	"minimum-stability": "stable",
 	"autoload":{
 		"psr-4":{
 			"yinjinshun\\arthur":"src/"
 		}
 	}
 }
+
